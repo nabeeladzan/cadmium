@@ -1,2 +1,2 @@
-# cadmium
+# Cadmium
 A Minecraft Server Manager
